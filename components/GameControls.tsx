@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingVertical: 12,
     flexWrap: "wrap",
-    gap: 8,
+    //gap: 8,
   },
   button: {
     flexDirection: "row",
@@ -88,6 +88,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     borderWidth: 1,
     borderColor: colors.primary,
+    marginRight: 8, // añadir separación manual
   },
   activeButton: {
     backgroundColor: colors.primary,

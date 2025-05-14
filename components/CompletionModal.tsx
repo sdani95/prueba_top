@@ -8,7 +8,7 @@ import {
   ScrollView
 } from "react-native";
 import { X, Share2, RefreshCw } from "lucide-react-native";
-import { colors, typography, commonStyles } from "@/styles/theme";
+import { colors, typography } from "@/styles/theme";
 import { TopTenCategory } from "@/constants/categories";
 
 interface CompletionModalProps {

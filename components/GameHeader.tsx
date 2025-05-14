@@ -10,7 +10,7 @@ interface GameHeaderProps {
 
 export default function GameHeader({ title, description, date }: GameHeaderProps) {
   // Format date as "Month Day, Year"
-  const formattedDate = date.toLocaleDateString("en-US", {
+  const formattedDate = date.toLocaleDateString("es-ES", {
     month: "long",
     day: "numeric",
     year: "numeric",

@@ -4,7 +4,6 @@ import {
   Text, 
   StyleSheet, 
   Animated, 
-  Platform,
   Dimensions
 } from "react-native";
 import { colors, typography } from "@/styles/theme";
