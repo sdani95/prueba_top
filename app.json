@@ -1,6 +1,7 @@
 {
     "expo": {
       "name": "Top 10 Daily Guess Game",
+      "sdkVersion": "53.0.0", // Asegúrate de que esta versión coincida con la versión que intentas usar
       "slug": "top-10-daily-guess-game",
       "version": "1.0.0",
       "orientation": "portrait",
